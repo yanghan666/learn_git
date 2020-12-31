@@ -179,7 +179,7 @@ function loginsuccessCA(){
 <body>
 			<div class="NoticBox8"> </div>
 			<div class="wrapper NoticBox" id="divId" style="display: none">
-				如果使用CA登录平台，请使用IE浏览器
+				如果使用CA登录平台，请使用IE浏览器122112211212
 				<div id="close"><b>关闭</b></div>
 			</div>
 			<div class="loginlogoBox">
